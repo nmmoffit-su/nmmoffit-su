@@ -11,7 +11,7 @@
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="40px" src="https://i.imgur.com/KHUdIGX.jpg" />][Resume Website]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-42-151143.png" />][Linkedin]
 
 <br />
 
