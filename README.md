@@ -10,25 +10,25 @@
 
 ### Connect with me:
 
-[Resume Website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://i.imgur.com/KHUdIGX.jpg" />][Resume Website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 
 <br />
 
-### Projects:
+## Projects:
 
-## [Resume Website]
+### [Resume Website]
 - I created this Single-Page Application using Vue.js and Vue Router
 - Click around to learn more about me!
 
-## [Cortland Dragons Website Build]
+### [Cortland Dragons Website Build]
 - Click that link to see the website I built while training at SIDEARM Sports
 
-## Classroom Work
+### Classroom Work
 - Check out /ClassroomProjects for some of the bigger projects I worked on while studying at Syracuse University
 - /OrangeDirections was a collaborative Python project that allows you to enter in a class schedule and outputs directions to each building
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn0.iconfinder.com/data/icons/social-media-logo-4/32/Social_Media_vs_code_visual_studio_code-512.png" />
 <img align="left" alt="HTML5" width="26px" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" />
