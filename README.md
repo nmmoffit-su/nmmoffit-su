@@ -2,15 +2,15 @@
 
 ### I'm a Front-End Web Developer, Recent Graduate, and Tech Enthusiast!
 
-- 🔎 I’m currently learning more about SEO
-- 🎓 I have my B.S. from Syracuse University in Information Management & Technology
-- 🎯 2021 Goals: Find a job in tech that can utilize my Web Development skills
-- 😁 Pronouns: He/Him
-- 💥 Fun fact: I love to play chess and take pictures
+- 🔎  I’m currently learning more about SEO
+- 🎓  I have my B.S. from Syracuse University in Information Management & Technology
+- 🎯  2021 Goals: Find a job in tech that can utilize my Web Development skills
+- 😁  Pronouns: He/Him
+- 💥  Fun fact: I love to play chess and take pictures
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://i.imgur.com/KHUdIGX.jpg" />][Resume Website]
+[<img align="left" alt="LinkedIn" width="40px" src="https://i.imgur.com/KHUdIGX.jpg" />][Resume Website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 
 <br />
