@@ -40,6 +40,6 @@
 <br />
 <br />
 
-[Personal Website]: https://www.nickmoffitt.com
+[Resume Website]: https://www.nickmoffitt.com
 [Linkedin]: https://www.linkedin.com/in/nicholas-moffitt/
 [Cortland Dragons Website Build]: https://www.cortlandreddragons.com/
