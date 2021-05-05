@@ -11,8 +11,9 @@
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="64px" src="https://i.imgur.com/KHUdIGX.jpg" />][Resume Website]
-[<img align="left" alt="LinkedIn" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-42-151143.png" />][Linkedin]
+[<img align="left" alt="LinkedIn" width="36px" src="https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png" />][Linkedin]
 
+<br />
 <br />
 
 ## Projects:
@@ -25,8 +26,8 @@
 - Click that link to see the website I built while training at SIDEARM Sports
 
 ### Classroom Work
-- Check out /ClassroomProjects for some of the bigger projects I worked on while studying at Syracuse University
-- /OrangeDirections was a collaborative Python project that allows you to enter in a class schedule and outputs directions to each building
+- Check out [/ClassroomProjects] for some of the bigger projects I worked on while studying at Syracuse University
+- [/OrangeDirections] was a collaborative Python project that allows you to enter in a class schedule and outputs directions to each building
 
 ## Languages and Tools:
 
@@ -43,3 +44,5 @@
 [Resume Website]: https://www.nickmoffitt.com
 [Linkedin]: https://www.linkedin.com/in/nicholas-moffitt/
 [Cortland Dragons Website Build]: https://www.cortlandreddragons.com/
+[/ClassroomProjects]: https://github.com/nmmoffit-su/ClassroomProjects
+[/OrangeDirections]: https://github.com/nmmoffit-su/OrangeDirections
