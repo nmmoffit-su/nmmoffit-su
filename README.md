@@ -2,7 +2,7 @@
 
 ### I'm a Front-End Web Developer, Recent Graduate, and Tech Enthusiast!
 
-- 🔎  I’m currently learning more about SEO
+- 🔎  I’m currently working on a personal website for a friend of mine!
 - 🎓  I have my B.S. from Syracuse University in Information Management & Technology
 - 🎯  2021 Goals: Find a job in tech that can utilize my Web Development skills
 - 😁  Pronouns: He/Him
